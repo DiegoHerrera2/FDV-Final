@@ -60,7 +60,7 @@ El juego tiene sonidos para saltar, disparar, recoger monedas, golpear y ser gol
 
 2. **Pantalla de derrota:** Se muestra al morir. Contiene un botón que permite reiniciar la escena.
 
-![gameover](images/gameoverscreen.png)
+![gameover](images/gameover.png)
 
 Se ha diseñado la interfaz y las pantallas para que sean lo más modular posible, utilizando delegados y eventos.
 
